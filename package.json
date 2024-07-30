@@ -1,0 +1,12 @@
+{
+  "name": "pwa-studing",
+  "version": "1.0.0",
+  "description": "App build study PWA",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thiagobarros",
+  "license": "ISC",
+  "devDependencies": {}
+}
